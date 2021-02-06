@@ -1,0 +1,6 @@
+<!--components/search/search.wxml-->
+<view class="search_for">
+  <navigator url="/pages/search/index" open-type="navigate">
+      搜一搜直达：疾病/症状/科普文章
+  </navigator>
+</view>

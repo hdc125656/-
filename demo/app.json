@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/community/community",
+    "pages/consultation/consultation",
+    "pages/mine/mine",
+    "pages/search/index"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./images/index0.jpg",
+        "selectedIconPath": "./images/index0.jpg"
+      },
+      {
+        "pagePath": "pages/community/community",
+        "text": "社区",
+        "iconPath": "./images/community0.jpg",
+        "selectedIconPath": "./images/community0.jpg"
+      },
+      {
+        "pagePath": "pages/consultation/consultation",
+        "text": "问诊",
+        "iconPath": "./images/consultation0.png",
+        "selectedIconPath": "./images/consultation0.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "./images/mine0.png",
+        "selectedIconPath": "./images/mine0.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
